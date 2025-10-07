@@ -1,28 +1,24 @@
 <h1 align="center">👋 Hey there, I'm Arthur Gabriel Von Wolfresgrun</h1>
 
-<h3 align="center">💻 Full Stack Developer | Salesforce Developer | Cloud & API Integration Enthusiast</h3>
+<h3 align="center">💻 Salesforce Developer | Full Stack Enthusiast | Cloud & API Integration</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-Sou **desenvolvedor Full Stack** apaixonado por criar soluções que unem **eficiência, design e propósito**.  
-Sou **formado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School**, e tenho experiência prática no desenvolvimento de **aplicações completas**, desde o back-end até o front-end.  
+Sou **desenvolvedor Salesforce** apaixonado por criar soluções que unem **eficiência, design e propósito**.  
+Formado em **Análise e Desenvolvimento de Sistemas pela São Paulo Tech School**, tenho experiência prática no desenvolvimento de **aplicações completas** focadas em **Salesforce**, incluindo **Apex**, **LWC** e **Triggers**, além de integrações com APIs externas.  
 
-Trabalho com **Java (Spring Boot)**, **React**, **Salesforce (Apex, LWC, Triggers)** e **integrações com APIs externas**, sempre buscando escalabilidade, boas práticas e uma ótima experiência para o usuário.  
+Possuo também conhecimentos acadêmicos em **Java (Spring Boot)** e experiência com **Docker**, **MySQL**, **Python** e **arquitetura em nuvem (AWS)**.  
+Sou movido por desafios e pela vontade de entregar resultados que realmente façam a diferença.  
 
-Tenho também experiência com **Docker**, **MySQL**, **Python** e **arquitetura em nuvem (AWS)**.  
-Sou movido por desafios e pela vontade de entregar resultados que façam a diferença.
-
-💡 Sempre em busca de evoluir tecnicamente e pessoalmente, acredito que um bom desenvolvedor une lógica, criatividade e propósito em cada linha de código.
+💡 Acredito que um bom desenvolvedor une **lógica, criatividade e propósito** em cada linha de código.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="45" height="45"/>&nbsp;
@@ -51,5 +47,6 @@ Sou movido por desafios e pela vontade de entregar resultados que façam a difer
   </a>
 </p>
 
+---
 
-<h4>Scientia potentia est</h4>
+<h4 align="center"><i>Scientia potentia est 🧠</i></h4>
