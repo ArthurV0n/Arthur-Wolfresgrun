@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Arthur Gabriel Von Wolfresgrun Pedroso</h1>
 
-<h3 align="center">💻 Salesforce Developer | Full Stack Enthusiast | Cloud & API Integration</h3>
+<h3 align="center">💻 Salesforce Developer | Full Stack | Cloud & API Integration</h3>
 
 ---
 
